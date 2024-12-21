@@ -42,7 +42,7 @@ Este documento descreve os requisitos funcionais e não funcionais, além de ins
 
 [RF012] O sistema permite a exclusão de produtos.
 
-### Concultas:
+### Consultas:
 
 [RF013] O sistema permite a busca de clientes pelo nome.
 
